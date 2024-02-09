@@ -2,7 +2,7 @@
 
 ## About `xx`
 
-> xx provides tools to support cross-compilation from Dockerfiles that understand the --platform flag passed in from docker build or docker buildx build. These helpers allow you to build multi-platform images from any architecture into any architecture supported by your compiler with native performance. Adding xx to your Dockerfile should only need minimal updates and should not require custom conditions for specific architectures.
+> [xx](https://github.com/tonistiigi/xx) provides tools to support cross-compilation from Dockerfiles that understand the --platform flag passed in from docker build or docker buildx build. These helpers allow you to build multi-platform images from any architecture into any architecture supported by your compiler with native performance. Adding xx to your Dockerfile should only need minimal updates and should not require custom conditions for specific architectures.
 
 ## About cross-compilation
 
